@@ -1,0 +1,14 @@
+C:\Users\Bahulya\source\repos\UserRegistration Regex\bin\Debug\netcoreapp3.1\UserRegistration Regex.exe
+C:\Users\Bahulya\source\repos\UserRegistration Regex\bin\Debug\netcoreapp3.1\UserRegistration Regex.deps.json
+C:\Users\Bahulya\source\repos\UserRegistration Regex\bin\Debug\netcoreapp3.1\UserRegistration Regex.runtimeconfig.json
+C:\Users\Bahulya\source\repos\UserRegistration Regex\bin\Debug\netcoreapp3.1\UserRegistration Regex.runtimeconfig.dev.json
+C:\Users\Bahulya\source\repos\UserRegistration Regex\bin\Debug\netcoreapp3.1\UserRegistration Regex.dll
+C:\Users\Bahulya\source\repos\UserRegistration Regex\bin\Debug\netcoreapp3.1\UserRegistration Regex.pdb
+C:\Users\Bahulya\source\repos\UserRegistration Regex\obj\Debug\netcoreapp3.1\UserRegistration Regex.csproj.AssemblyReference.cache
+C:\Users\Bahulya\source\repos\UserRegistration Regex\obj\Debug\netcoreapp3.1\UserRegistration Regex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bahulya\source\repos\UserRegistration Regex\obj\Debug\netcoreapp3.1\UserRegistration Regex.AssemblyInfoInputs.cache
+C:\Users\Bahulya\source\repos\UserRegistration Regex\obj\Debug\netcoreapp3.1\UserRegistration Regex.AssemblyInfo.cs
+C:\Users\Bahulya\source\repos\UserRegistration Regex\obj\Debug\netcoreapp3.1\UserRegistration Regex.csproj.CoreCompileInputs.cache
+C:\Users\Bahulya\source\repos\UserRegistration Regex\obj\Debug\netcoreapp3.1\UserRegistration Regex.dll
+C:\Users\Bahulya\source\repos\UserRegistration Regex\obj\Debug\netcoreapp3.1\UserRegistration Regex.pdb
+C:\Users\Bahulya\source\repos\UserRegistration Regex\obj\Debug\netcoreapp3.1\UserRegistration Regex.genruntimeconfig.cache
